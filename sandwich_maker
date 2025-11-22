@@ -98,3 +98,4 @@ while is_on:
         print(resources)
     else:
         print("Invalid selection.")
+
